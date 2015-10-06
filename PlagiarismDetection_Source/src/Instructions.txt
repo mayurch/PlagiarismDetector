@@ -1,0 +1,9 @@
+
+**** Insufficient Input ****
+
+The program should be given the following as input to detect plagiarism:
+
+1. File name for a list of synonyms
+2. Input file 1
+3. Input file 2 (compared against input file 1)
+4. (Optional) the number N, the tuple size. If not supplied the default size of 3 is used.
